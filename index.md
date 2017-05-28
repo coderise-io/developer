@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## codeRISE Documentation
 
-You can use the [editor on GitHub](https://github.com/coderise-io/docs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the  to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contributing
 
-### Markdown
+Please feel free to edit documentation using the [editor on GitHub](https://github.com/coderise-io/docs/edit/master/index.md) or via cloning the repo. When ready to submit, create a pull request and we will review and merge it to the master branch.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+codeRISE documentation happens in the open on GitHub, and we are grateful to the community for contributing bugfixes and improvements. Read below to learn how you can take part in improving codeRISE.
 
-```markdown
-Syntax highlighted code block
+### Bugs and feature requests
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/coderise-io/docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Have a bug or a feature request? Please first read the issue guidelines and search for existing and closed issues. If your problem or idea is not addressed yet, please [conact support](mailto: support@coderise.io)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Still having trouble? [contact support](mailto: support@coderise.io) and we’ll help you sort it out.
