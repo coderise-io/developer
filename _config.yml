@@ -113,7 +113,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - _get-started
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
