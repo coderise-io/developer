@@ -1,6 +1,6 @@
 ---
 title: "Get Started"
-permalink: /get-started/
+permalink: /docs/get-started/
 excerpt: "How to quickly get start with codeRISE."
 last_modified_at: 2017-05-29T10:01:43-04:00
 ---
