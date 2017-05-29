@@ -1,7 +1,5 @@
 ## codeRISE Documentation
 
-You can use the  to maintain and preview the content for your website in Markdown files.
-
 ### Contributing
 
 Please feel free to edit documentation using the [editor on GitHub](https://github.com/coderise-io/docs/edit/master/index.md) or via cloning the repo. When ready to submit, create a pull request and we will review and merge it to the master branch.
