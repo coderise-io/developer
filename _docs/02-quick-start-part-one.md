@@ -1,6 +1,6 @@
 ---
 title: "Get started with codeRISE, Part 1: Login and Setup"
-permalink: /quick-start-part-one/
+permalink: /get-started/quick-start-part-one/
 excerpt: "How to quickly get start with codeRISE - Login and Setup"
 last_modified_at: 2017-05-29T10:01:43-04:00
 ---
