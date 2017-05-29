@@ -1,8 +1,9 @@
 ---
-title: "Get Started"
-permalink: /docs/get-started/
-excerpt: "How to quickly get start with codeRISE."
-last_modified_at: 2017-05-29T10:01:43-04:00
+title: Get Started
+permalink: /get-started/
+excerpt: How to quickly get start with codeRISE.
+last_modified_at: 2017-05-29T14:01:43.000Z
+published: true
 ---
 
 Minimal Mistakes has been developed as a [Jekyll theme gem](http://jekyllrb.com/docs/themes/) for easier use. It is also 100% compatible with GitHub Pages --- just with a more involved installation process.
