@@ -15,7 +15,9 @@ To sign in with GitHub or BitBucket:
 2.	Click GitHub or BitBucket
 3.	On the pop-up window, log in with your existing account in GitHub or BitBucket.
 
-![codeRISE GitHub]({{site.baseurl}}/_docs/coderise-login-01.jpg)
+<figure>
+  <img src="{{ '/assets/images/site/login.gif' | absolute_url }}" alt="GitHub/BitBucket login">
+</figure>
 
 
 
