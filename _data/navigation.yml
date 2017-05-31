@@ -24,7 +24,17 @@ docs:
         url: /get-started/quick-start-part-three/
       - title: "Continuous Deployment"
         url: /get-started/quick-start-part-four/
- - title: Build
+  - title: Build
+      children:
+      - title: "Quick-Start Guide"
+        url: /get-started/
  - title: Deploy
+     children:
+      - title: "Quick-Start Guide"
+        url: /get-started/
  - title: Test
+     children:
+      - title: "Quick-Start Guide"
+        url: /get-started/
+
 
