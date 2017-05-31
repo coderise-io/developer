@@ -2,7 +2,7 @@
 title: 'Get started with codeRISE, Part 1: Login and Setup'
 permalink: /get-started/quick-start-part-one/
 excerpt: How to quickly get start with codeRISE - Login and Setup
-date:   2017-05-28 20:38:15 -0400
+date: '2017-05-28 20:38:15 -0400'
 published: true
 ---
 
@@ -16,7 +16,7 @@ To sign in with GitHub or BitBucket:
 3.	On the pop-up window, log in with your existing account in GitHub or BitBucket.
 
 <figure>
-  <img src="{'http://assets.coderise.io/images/gifs/login.gif'}" alt="GitHub/BitBucket login">
+  <img src="http://assets.coderise.io/images/gifs/login.gif" alt="GitHub/BitBucket login">
 </figure>
 
 
