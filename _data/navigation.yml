@@ -25,15 +25,15 @@ docs:
       - title: "Continuous Deployment"
         url: /get-started/quick-start-part-four/
   - title: Build
-      children:
+    children:
       - title: "Quick-Start Guide"
         url: /get-started/
- - title: Deploy
-     children:
+  - title: Deploy
+    children:
       - title: "Quick-Start Guide"
         url: /get-started/
- - title: Test
-     children:
+  - title: Test
+    children:
       - title: "Quick-Start Guide"
         url: /get-started/
 
