@@ -6,8 +6,17 @@ last_modified_at: {}
 published: true
 ---
 
-Welcome! We are excited you want to learn how to use codeRISE.
+codeRISE supports signing in with your preferred repository provider, GitHub or BitBucket. 
 
-{% include toc %}
+### GitHub/BitBucket Login:
+
+To sign in with GitHub or BitBucket:
+1.	In the homepage, click [Login](https://app.coderise.io/#!/login).
+2.	Click GitHub or BitBucket
+3.	On the pop-up window, log in with your existing account in GitHub or BitBucket.
+
+![codeRISE GitHub]({{site.baseurl}}/_docs/coderise-login-01.jpg)
+
+
 
 ---
