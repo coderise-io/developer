@@ -10,3 +10,19 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  # documentation links
+docs:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /get-started/
+      - title: "Part 1: Login and Setup"
+        url: /get-started/quick-start-part-one/
+      - title: "Part 1: Login and Setup"
+        url: /get-started/quick-start-part-one/
+      - title: "Part 2: Projects and Services"
+        url: /get-started/quick-start-part-two/
+      - title: "Part 3: Continuous Integration"
+        url: /get-started/quick-start-part-three/
+      - title: "Part 4: Continuous Deployment"
+        url: /get-started/quick-start-part-four/
