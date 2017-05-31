@@ -2,7 +2,7 @@
 title: 'Get started with codeRISE, Part 1: Login and Setup'
 permalink: /get-started/quick-start-part-one/
 excerpt: How to quickly get start with codeRISE - Login and Setup
-last_modified_at: {}
+date:   2017-05-28 20:38:15 -0400
 published: true
 ---
 
