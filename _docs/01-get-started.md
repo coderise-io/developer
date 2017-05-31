@@ -2,11 +2,18 @@
 title: Get Started
 permalink: /get-started/
 excerpt: How to quickly get start with codeRISE.
-last_modified_at: 2017-05-29T14:01:43.000Z
+last_modified_at: {}
 published: true
 ---
 
-Minimal Mistakes has been developed as a [Jekyll theme gem](http://jekyllrb.com/docs/themes/) for easier use. It is also 100% compatible with GitHub Pages --- just with a more involved installation process.
+Welcome! We are excited you want to learn how to use codeRISE.
+
+In this five-part tutorial, you will:
+1. A short introduction to codeRISE, on this page
+2. [Sign in and setup your account](/get-started/quick-start-part-one)
+3. [Create your first project and service](/get-started/quick-start-part-two)
+4. [Build your first app on codeRISE](/get-started/quick-start-part-three) 
+5. [Deploy your app to production](/get-started/quick-start-part-four)
 
 {% include toc %}
 
