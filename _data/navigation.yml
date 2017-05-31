@@ -5,7 +5,7 @@ main:
   - title: "Quick-Start Guide"
     url: http://docs.coderise.io/get-started/
   - title: "Login"
-    url: https://app.coderise.io/#!/login/
+    url: https://app.coderise.io/#!/login
   # - title: "About"
   #   url: http://docs.coderise.io/about/
   # - title: "Sample Posts"
