@@ -18,8 +18,6 @@ docs:
         url: /get-started/
       - title: "Part 1: Login and Setup"
         url: /get-started/quick-start-part-one/
-      - title: "Part 1: Login and Setup"
-        url: /get-started/quick-start-part-one/
       - title: "Part 2: Projects and Services"
         url: /get-started/quick-start-part-two/
       - title: "Part 3: Continuous Integration"
