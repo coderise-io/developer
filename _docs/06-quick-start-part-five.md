@@ -1,5 +1,5 @@
 ---
-title: 'Get started with codeRISE, Part 5: Automated Testing'
+title: 'Get started with codeRISE, Part 4: Continuous Deployment'
 permalink: /get-started/quick-start-part-four/
 excerpt: How to quickly get start with codeRISE - Continuous Deployment
 last_modified_at: '2017-07-03 20:38:15 -0400'
