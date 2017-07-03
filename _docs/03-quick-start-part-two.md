@@ -2,7 +2,7 @@
 title: 'Get started with codeRISE, Part 2: Projects and Services'
 permalink: /get-started/quick-start-part-two/
 excerpt: How to quickly get start with codeRISE - Projects and Services
-last_modified_at: '2017-05-30 20:38:15 -0400'
+last_modified_at: '2017-07-03 20:38:15 -0400'
 published: true
 ---
 
@@ -24,5 +24,5 @@ published: true
 
  
 <figure>
-  <img src="http://assets.coderise.io/images/gifs/service.gif" alt="GitHub/BitBucket login">
+  <img src="http://assets.coderise.io/images/gifs/service.gif" alt="codeRISE Projects and Services">
 </figure>
